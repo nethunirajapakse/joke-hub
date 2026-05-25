@@ -5,8 +5,6 @@ A cross-platform Flutter application built as a continuous assessment for the Wi
 ## 📝 Project Details
 
 * **Coursework:** Wireless Communication & Mobile Networks - Continous Assesment
-* **Student ID:** 214165D
-* **Developer:** Rajapakse N.C.M.K
 * **Development Year:** 2024
 
 ## 📱 Features
