@@ -2,6 +2,13 @@
 
 A cross-platform Flutter application built as a continuous assessment for the Wireless Communication & Mobile Networks module. The app fetches dynamic joke data from an external API and implements local caching for offline usability.
 
+## 📝 Project Details
+
+* **Coursework:** Wireless Communication & Mobile Networks - Continous Assesment
+* **Student ID:** 214165D
+* **Developer:** Rajapakse N.C.M.K
+* **Development Year:** 2024
+
 ## 📱 Features
 * **API Integration:** Fetches fresh joke data dynamically.
 * **Offline Caching:** Saves retrieved jokes locally to view without an internet connection.
@@ -43,13 +50,5 @@ flutter run
 
 ---
 
----
-
-## 📝 Project Details
-
-* **Coursework:** Continuous Assessment
-* **Student ID:** 214165D
-* **Developer:** Rajapakse N.C.M.K
-* **Development Year:** 2024
 
 
