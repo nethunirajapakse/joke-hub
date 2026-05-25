@@ -1,10 +1,10 @@
 # Jokes API with Caching App
 
-A cross-platform Flutter application built as a continuous assessment for the Wireless Communication & Mobile Networks module. The app fetches dynamic joke data from an external API and implements local caching for offline usability.
+A cross-platform Flutter application built as a continuous assessment for the **Wireless Communication & Mobile Networks** module. The app fetches dynamic joke data from an external API and implements local caching for offline usability.
 
 ## 📝 Project Details
 
-* **Coursework:** Wireless Communication & Mobile Networks - Continous Assesment
+* **Coursework:** Continous Assesment
 * **Development Year:** 2024
 
 ## 📱 Features
