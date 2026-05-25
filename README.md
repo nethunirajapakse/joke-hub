@@ -6,7 +6,7 @@ A cross-platform Flutter application built as a continuous assessment for the Wi
 
 <p align="center">
   <img width="30%" src="https://github.com/user-attachments/assets/448a2932-849d-4539-84ce-643de4de8208" alt="App Screenshot 1" style="margin-right: 10px;" />
-  <img width="30%" src="https://github.com/user-attachments/assets/62b0dcfc-999c-4e29-8016-24050cb487c7" alt="App Screenshot 2" style="margin-right: 10px;" />
+  <img width="30%" src="https://github.com/user-attachments/assets/ae5e979b-de77-43a9-9b14-4293240aedc7" alt="App Screenshot 2" style="margin-right: 10px;" />
   <img width="30%" src="https://github.com/user-attachments/assets/506fdf71-5c63-4fac-895a-9e8b961e4067" alt="App Screenshot 3" />
 </p>
 
