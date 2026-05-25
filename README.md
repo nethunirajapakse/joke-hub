@@ -41,26 +41,15 @@ flutter run
 
 ```
 
-
+---
 
 ---
 
 ## 📝 Project Details
 
-* 
-**Coursework:** Continuous Assessment 
-
-
-* 
-**Student ID:** 214165D 
-
-
-* 
-**Developer:** Rajapakse N.C.M.K 
-
-
+* **Coursework:** Continuous Assessment
+* **Student ID:** 214165D
+* **Developer:** Rajapakse N.C.M.K
 * **Development Year:** 2024
 
-```
 
-```
