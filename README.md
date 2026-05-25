@@ -27,26 +27,25 @@ A cross-platform Flutter application built as a continuous assessment for the Wi
 ## 🚀 Quick Start
 
 1. **Clone & Navigate:**
-   ```bash
+   ```
    git clone [https://github.com/YOUR_USERNAME/jokes_app.git](https://github.com/YOUR_USERNAME/jokes_app.git)
    cd jokes_app
+   ```
 
-```
 
 2. **Install Dependencies:**
-```bash
+```
 flutter pub get
-
 ```
 
 
 3. **Run the App:**
-```bash
+```
 flutter run
 
 ```
 
----
+
 
 
 
