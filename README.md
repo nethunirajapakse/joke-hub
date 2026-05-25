@@ -1,16 +1,73 @@
-# jokes_app
+# Jokes API with Caching App
 
-A new Flutter project.
+A cross-platform Flutter application built as a continuous assessment for the Wireless Communication & Mobile Networks module. The app fetches dynamic joke data from an external API and implements local caching for offline usability.
 
-## Getting Started
+## 📸 App Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img width="720" height="1520" alt="vlcsnap-2026-05-25-11h53m45s100" src="https://github.com/user-attachments/assets/506fdf71-5c63-4fac-895a-9e8b961e4067" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="720" height="1520" alt="vlcsnap-2026-05-25-11h52m37s259" src="https://github.com/user-attachments/assets/448a2932-849d-4539-84ce-643de4de8208" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Features
+* **API Integration:** Fetches fresh joke data dynamically.
+* **Offline Caching:** Saves retrieved jokes locally to view without an internet connection.
+* **Cross-Platform:** Built for Android, iOS, Web, and Desktop.
+
+---
+
+## 🛠️ Challenges & Solutions
+
+* **Environment Setup:** Resolved system PATH variable errors with Flutter commands by verifying configurations and using `flutter doctor`.
+* **Dependency Issues:** Fixed plugin version mismatches and build errors using `flutter pub upgrade`.
+* **Gradle Failures:** Solved Android compilation issues by updating the Gradle build scripts and clearing the build cache.
+
+---
+
+## 🚀 Quick Start
+
+1. **Clone & Navigate:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/jokes_app.git](https://github.com/YOUR_USERNAME/jokes_app.git)
+   cd jokes_app
+
+```
+
+2. **Install Dependencies:**
+```bash
+flutter pub get
+
+```
+
+
+3. **Run the App:**
+```bash
+flutter run
+
+```
+
+
+
+---
+
+## 📝 Project Details
+
+* 
+**Coursework:** Continuous Assessment 
+
+
+* 
+**Student ID:** 214165D 
+
+
+* 
+**Developer:** Rajapakse N.C.M.K 
+
+
+* **Development Year:** 2024
+
+```
+
+```
